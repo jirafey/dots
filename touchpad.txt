@@ -1,0 +1,4 @@
+synclient TouchpadOff=2
+fixes sensitive touchpad when typing
+change to TouchpadOff=0 
+for scrolling
